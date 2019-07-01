@@ -3,4 +3,8 @@ Two moons might be problems.
 But the Mummy wil appreciate the lack of humidity
 change
 Made a new change
+<<<<<<< HEAD
 Made a different change
+=======
+Keep changing the file
+>>>>>>> d3b1656623f5b9b9acc823c598e0e6956269b401
