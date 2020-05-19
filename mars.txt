@@ -10,3 +10,4 @@ Keep changing the file
 >>>>>>> d3b1656623f5b9b9acc823c598e0e6956269b401
 This line is added to Wolfman's copy
 We removed the conflict on this line.
+We add a new line.
